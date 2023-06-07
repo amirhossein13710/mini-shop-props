@@ -1,0 +1,52 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "title":"موبایل ایفون",
+            "image":"images/apple.jpg",
+            "price":"19000000",
+            "avalebleBrand":["apple"],
+            "qty":"1"
+        },
+        {
+            "id":"2",
+            "title":"موبایل بلک بری",
+            "image":"images/blackberry.jpg",
+            "price":"12000000",
+            "avalebleBrand":["blackberry"],
+            "qty":"1"
+        },
+        {
+            "id":"3",
+            "title":"موبایل ال جی",
+            "image":"images/Lg.jpg",
+            "price":"11000000",
+            "avalebleBrand":["Lg"],
+            "qty":"1"
+        },
+        {
+            "id":"4",
+            "title":"موبایل موتورولا",
+            "image":"images/motorola.jpg",
+            "price":"8000000",
+            "avalebleBrand":["motorola"],
+            "qty":"1"
+        },
+        {
+            "id":"5",
+            "title":"موبایل سامسونگ",
+            "image":"images/samsong.jpg",
+            "price":"29000000",
+            "avalebleBrand":["samsung"],
+            "qty":"1"
+        },
+        {
+            "id":"6",
+            "title":"موبایل سونی",
+            "image":"images/sony.jpg",
+            "price":"5000000",
+            "avalebleBrand":["sony"],
+            "qty":"1"
+        }
+    ]
+}

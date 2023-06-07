@@ -1,0 +1,26 @@
+.filter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.6rem;
+}
+.sort{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-checkbox{
+    display: flex;
+}
+.form-group{
+    margin: 0 5px;
+}
+.form-group input{
+    margin-left: 5px;
+}
+.filter select{
+    width: 200px;
+    border: 1px solid rgb(187, 187, 187);
+    padding: 5px;
+    margin-right: 10px;
+}
